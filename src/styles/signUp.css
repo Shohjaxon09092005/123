@@ -1,0 +1,16 @@
+.sign_top {
+  background-image: url('../images/register2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0;
+  width: 100%;
+}
+.sign_bottom{
+  background-image: url('../images/register3.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px 0;
+  width: 100%;
+}
